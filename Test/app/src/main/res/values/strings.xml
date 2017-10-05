@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="textbox_placeholder">请输入文本框内容</string>
+    <string name="sumbit_btn_text">提交</string>
 </resources>

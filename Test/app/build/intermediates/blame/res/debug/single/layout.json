@@ -8,6 +8,10 @@
         "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout/activity_display_message.xml",
+        "source": "/project/android/Test/app/src/main/res/layout/activity_display_message.xml"
+    },
+    {
         "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout/abc_action_menu_item_layout.xml"
     },

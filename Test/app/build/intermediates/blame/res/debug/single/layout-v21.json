@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shitao/.android/build-cache/51a40d1d5492dd1bcf88050cda1e277552b557de/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/project/android/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/project/android/Test/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/project/android/Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
